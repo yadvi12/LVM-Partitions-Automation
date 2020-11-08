@@ -1,1 +1,1 @@
-# LVM-Partitions-Automation
+# Automation of LVM Partitions using Python
